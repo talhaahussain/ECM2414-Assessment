@@ -1,4 +1,4 @@
-# Card game simulation - ECM2414
+# card-game
 
 ## Description
 This is a multithreaded program to simulate the playing of a simple card game with numerous players and decks. The number of players is decided by the user and the pack should be provided by the user as well.
