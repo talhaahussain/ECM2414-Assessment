@@ -1,7 +1,8 @@
 # card-game
 
-## Description
-This is a multithreaded program to simulate the playing of a simple card game with numerous players and decks. The number of players is decided by the user and the pack should be provided by the user as well.
+Continuous Assessment for ECM2414 - Software Development, set by Prof. Yulei Wu (Year 2, Semester 1). Uses multi-threading in Java to simulate the playing of a simple card game with numerous players and decks. Developed as a pair programming project.
+
+This work received a final mark of 91/100.
 
 ## Compiling the main program
 
@@ -59,5 +60,8 @@ java -class-path ".;junit.jar;hamcrest-core.jar" org.junit.runner.JUnitCore Test
 
 ## Footnotes
 When viewing the deck files after a game, it is possible that some decks may have more/less cards. This is normal and to be expected - due to the nature of the multithreaded environment, the game may suddenly end while certain decks have less cards than others.
+
+Please note that the number of players is decided by the user and the pack should be provided by the user as well.
+
 
 Developed by Talhaa Hussain and Reuben Kurian for the University of Exeter, module code ECM2414.
