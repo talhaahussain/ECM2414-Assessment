@@ -4,7 +4,7 @@ Continuous Assessment for ECM2414 - Software Development, set by Prof. Yulei Wu 
 
 This work received a final mark of 91/100.
 
-Unfortunately, the specification for this assessment is unable to be retrieved at this time.
+Please see `specification.pdf` for specification.
 
 ## Compiling the main program
 
